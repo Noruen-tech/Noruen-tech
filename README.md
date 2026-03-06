@@ -1,12 +1,16 @@
-<h2 align="left">Hi 👋! My name is Farel Hilmy Syafiq and I'm a student from Telkom University</h2>
+<h1 align="left">Hi there... 🥺</h1>
 
 ###
 
-<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p5bnVxZGp6cXk1dGQ0OXRlYmFxdjE5NzBzY3hraWNtNmg2MmdwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif"  />
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwM2MwYTZ6eHc5NWp3eHp3MHNkdm5yNWtnbHI0ZnZkOTI0OWx5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TwPVBXmCkCl0URWrVj/giphy.gif"  />
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
